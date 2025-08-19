@@ -1,0 +1,15 @@
+Day - 1
+- Number based
+- Pattern based
+- Scenario based
+- Puzzle
+- Game
+- Data Structure
+- Dyanamic programming
+- Greedy algorithms
+- Real-Time Application
+
+Day - 2
+- Case conversion
+- String Checks
+- LEETCODE Problems
