@@ -1,4 +1,4 @@
-### LCM of Two Numbers
+### 7) LCM of Two Numbers
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
