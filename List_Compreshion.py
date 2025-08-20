@@ -1,4 +1,4 @@
-### 3) Using List Comprehension,print all numbers from 1 to 100 are divisible by 5
+### 4) Using List Comprehension,print all numbers from 1 to 100 are divisible by 5
 
 my_list = [i for i in range(1, 10)]
 print(my_list)
