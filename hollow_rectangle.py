@@ -1,4 +1,4 @@
-### Hollow Rectangle Pattern
+### 8) Hollow Rectangle Pattern
 r = 5
 c = 10
 for i in range(r):
