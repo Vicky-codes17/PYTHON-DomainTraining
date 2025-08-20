@@ -1,4 +1,4 @@
-### Euclidean Algorithm Implementation 
+### 6) Euclidean Algorithm Implementation 
 
 a = int(input("Enter first  number: "))
 b = int(input("Enter second number: "))
