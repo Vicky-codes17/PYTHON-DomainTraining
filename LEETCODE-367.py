@@ -1,4 +1,4 @@
-### Given a positive integer num, return true if num is a perfect square or false otherwise.
+### 2) Given a positive integer num, return true if num is a perfect square or false otherwise.
 
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
