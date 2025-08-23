@@ -13,3 +13,16 @@ Day - 2
 - Case conversion
 - String Checks
 - LEETCODE Problems
+
+Day - 3
+- String Compression
+- List Concepts
+- LEETCODE Problems
+
+Day - 4
+- String returning function
+- List Compression ( List )
+- Nested Grid
+- Game (Flames)
+
+Day -5
