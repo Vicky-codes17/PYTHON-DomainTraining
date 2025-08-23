@@ -1,4 +1,4 @@
-### 3) Right Triangle
+### 3) Left Triangle
 ### Printing a pattern using nested loops using *
 p = 5
 for i in range(p):
