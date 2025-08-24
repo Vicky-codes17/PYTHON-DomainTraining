@@ -8,6 +8,7 @@ for i in range(no):
     d = input("Enter the team name : ")
     teams.append(d)
 meet = int(input("Enter the number of times each team should meet : "))
+
 for i in range(no-1):
     for j in range(i+1,no):
         for k in range(meet):
