@@ -1,3 +1,4 @@
+### Write a Program for the Scheduling Algorithm
 import random
 
 no = int(input("Enter the number of teams :"))
