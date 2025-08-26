@@ -27,6 +27,16 @@ Day - 4
 
 Day -5
 - Scheduling Algorithms
+<<<<<<< HEAD
 - Libraries Of TimeDate & TimeZone
 
 Day - 6
+=======
+- Timezone & Datetime
+
+Day -6
+- Tuple,Set(Symmatric difference)
+- Dictionary
+- Compression in Dictionary
+- Lambda Functions
+>>>>>>> 267501626ef047abe316804e52aca8b5b77b7118
